@@ -1,4 +1,4 @@
-![Makwan's github stats](https://github-readme-stats.vercel.app/api?username=m1bki0n&show_icons=true&hide_border=true)
+![Makwan's github stats](https://github-readme-stats.vercel.app/api?username=m1bki0n&theme=vue&show_icons=true&hide_border=true)
 
 
 ## Hey 👋, I'm Makwan
