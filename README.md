@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Makwan
 
-<a href="https://www.linkedin.com/in/mehdimabrouki/">
+<a href="https://www.linkedin.com/in/makwanbk/">
   <img align="left" alt="Makwan's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/makwanbk">
