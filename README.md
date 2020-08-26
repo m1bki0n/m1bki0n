@@ -1,4 +1,7 @@
-### Hey 👋, I'm Makwan
+![Makwan's github stats](https://github-readme-stats.vercel.app/api?username=m1bki0n&show_icons=true&hide_border=true)
+
+
+## Hey 👋, I'm Makwan
 
 <a href="https://www.linkedin.com/in/makwanbk/">
   <img align="left" alt="Makwan's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -35,6 +38,3 @@ Hi there, I'm **Makwan Barzan (aka Makwan BK)**, an **Indie iOS Developer** and 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-
-
-![Makwan's github stats](https://github-readme-stats.vercel.app/api?username=m1bki0n&show_icons=true&hide_border=true)
