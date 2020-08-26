@@ -26,7 +26,7 @@ Hi there, I'm **Makwan Barzan (aka Makwan BK)**, an **Indie iOS Developer** and 
 - 💼 I’m pursuing a Diploma's degree in Computer Science;
 - 💬 Ask me about anything related to Swift, I am happy to help as much as I can;
 - 📫 Please email via contact@makwanbk.com to reach me.
-- 📝 See [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
+- 📝 See [My Pesonal Website](https://www.makwanbk.com) to get more info.
 
 
 **Languages and Tools:**  
@@ -42,6 +42,6 @@ Hi there, I'm **Makwan Barzan (aka Makwan BK)**, an **Indie iOS Developer** and 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 
 ![Makwan's github stats](https://github-readme-stats.vercel.app/api?username=m1bki0n&show_icons=true&hide_border=true)
