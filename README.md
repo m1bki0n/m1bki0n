@@ -36,7 +36,6 @@ Hi there, I'm **Makwan Barzan (aka Makwan BK)**, an **Indie iOS Developer** and 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=swapnanildhol)
 
 **If you like my projects, please consider buying me a coffee:**
 
@@ -45,4 +44,6 @@ Hi there, I'm **Makwan Barzan (aka Makwan BK)**, an **Indie iOS Developer** and 
 <br>
 
 ![Makwan's github stats](https://github-readme-stats.vercel.app/api?username=m1bki0n&theme=vue&show_icons=true&hide_border=true)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=swapnanildhol)
 
