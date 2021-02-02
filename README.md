@@ -1,6 +1,3 @@
-![Makwan's github stats](https://github-readme-stats.vercel.app/api?username=m1bki0n&theme=vue&show_icons=true&hide_border=true)
-
-
 ## Hey 👋, I'm Makwan
 
 <a href="https://www.linkedin.com/in/makwanbk/">
@@ -44,3 +41,8 @@ Hi there, I'm **Makwan Barzan (aka Makwan BK)**, an **Indie iOS Developer** and 
 **If you like my projects, please consider buying me a coffee:**
 
 <a href="https://www.buymeacoffee.com/makwanbk"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=makwanbk&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
+
+<br>
+
+![Makwan's github stats](https://github-readme-stats.vercel.app/api?username=m1bki0n&theme=vue&show_icons=true&hide_border=true)
+
