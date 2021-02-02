@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi there, I'm **Makwan Barzan (aka Makwan BK)**, an **Indie iOS Developer** and a **Computer Science student** 🚀 from Kurdistan Region (Northeren Iraq). Currently, I'm developing iOS apps for fun and clients 👨🏽‍💻
+Hi there, I'm **Makwan Barzan (aka Makwan BK)**, an **Indie iOS Developer** and a **Computer Science student** 🚀 from Kurdistan Region of Iraq 🇮🇶. Currently, I'm developing iOS apps for fun and clients 👨🏽‍💻
 
 **Talking about Personal Stuffs:**
 
